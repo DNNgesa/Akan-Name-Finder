@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-      <link href="style.css" rel="stylesheet" type="text/css" />
-      <title>Akan Name Finder</title>
+        <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+        <title>Akan Name Finder</title>
     </head>
     <body>
         <script src="js/script.js"></script>
@@ -16,18 +16,18 @@
         <fieldset>
             <legend>DETAILS</legend>
             <form name="dateForm" onsubmit="return validate()">
-                <label for="bd">Birth Date</label><br>
+                <label for="bd">Birth Date:</label><br>
                 <input type="number" id="bd" name="bd" style="width: 300px;"><br>
-                <label for="mnth">Birth Month</label><br>
+                <label for="mnth">Birth Month:</label><br>
                 <input type="number" id="mnth" name="mnth" style="width: 300px;"><br>
-                <label for="yr">Birth Year</label><br>
+                <label for="yr">Birth Year:</label><br>
                 <input type="number" id="yr" name="yr" style="width: 300px;"><br>
                 <label for="gender">Gender:</label><br>
                 <select id="myGender" name="myGender"> 
                   <option value="optionM">Male</option> 
                   <option value="optionF">Female</option> 
                 </select><br>
-                <button class="namefinder">Submit</button>
+                <p><button class="namefinder">Submit</button></p>
             </form>
         </fieldset>
     </body>
