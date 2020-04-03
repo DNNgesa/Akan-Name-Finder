@@ -13,5 +13,22 @@
             <p>The Akan is a meta-ethnicity living in the southern regions of present-day Ghana. It is estimated that there are about 20 million members of the Akan tribe and they speak the Akan language (also known as Twi/Fante) in addition to English and French.</p>
             <p>Fill in the your details below and we'll let you know what your Akan name would have been and set you on your way to a whole new cultural discovery.</p>
         </fieldset> 
+        <fieldset>
+            <legend>DETAILS</legend>
+            <form name="dateForm" onsubmit="return validate()">
+                <label for="bd">Birth Date</label><br>
+                <input type="number" id="bd" name="bd" style="width: 300px;"><br>
+                <label for="mnth">Birth Month</label><br>
+                <input type="number" id="mnth" name="mnth" style="width: 300px;"><br>
+                <label for="yr">Birth Year</label><br>
+                <input type="number" id="yr" name="yr" style="width: 300px;"><br>
+                <label for="gender">Gender:</label><br>
+                <select id="myGender" name="myGender"> 
+                  <option value="optionM">Male</option> 
+                  <option value="optionF">Female</option> 
+                </select><br>
+                <button class="namefinder">Submit</button>
+            </form>
+        </fieldset>
     </body>
 </html>
