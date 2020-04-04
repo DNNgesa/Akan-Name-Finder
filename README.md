@@ -8,10 +8,10 @@ Page instructions:
 <li>Select your Gender</li>
 <li>Click the submit button</li>
 
-Tools used:
+<br>Tools used:
 <li>HTML</li>
 <li>bootstrap.css</li>
-<li>JavaScript</li><br>
+<li>JavaScript</li>
 
 <br>Author:
 <br>Drake Ngesa
