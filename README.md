@@ -19,3 +19,4 @@ Page instructions:
 Sources:
 <br>Image source: https://www.travellocal.com/inspiration/blog/1435/the-gorgeous-beaches-of-ghana
 <br>Introduction material: https://en.wikipedia.org/wiki/Akan_people
+
