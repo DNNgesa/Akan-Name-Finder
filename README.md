@@ -11,7 +11,7 @@ Page instructions:
 Tools used:
 <li>HTML</li>
 <li>bootstrap.css</li>
-<li>JavaScript</li>
+<li>JavaScript</li><br>
 
 <br>Author:
 <br>Drake Ngesa
